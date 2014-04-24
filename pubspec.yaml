@@ -1,0 +1,5 @@
+name: example-dart
+dependencies:
+  browser: any
+  http_server: any
+  
